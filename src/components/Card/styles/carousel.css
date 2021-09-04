@@ -1,0 +1,7 @@
+.slide-container {
+    overflow: unset;
+    margin: 1rem 0;
+    z-index: 0;
+    /* position: static; */
+    /* padding: 0 5%; */
+}

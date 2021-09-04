@@ -1,0 +1,26 @@
+/* .react-player__preview {
+    border-radius: 0.5rem;
+}
+
+.react-player__shadow {
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 0 !important;
+    transition: 0.2s;
+}
+
+.react-player__shadow:hover {
+    background: rgba(0, 0, 0, 0.6) !important;
+} */
+
+.player-wrapper {
+    position: relative;
+    padding-top: 56.25%;
+    /* Player ratio: 100 / (1280 / 720) */
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

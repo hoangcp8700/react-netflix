@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Home", "url": "/browse" },
+    { "id": 2, "name": "SERIES", "url": "/browse/series" },
+    { "id": 3, "name": "MOVIES", "url": "/browse/movies" },
+    { "id": 4, "name": "NEW & POPULAR", "url": "/browse/new_popular" },
+    { "id": 6, "name": "MY LISTS", "url": "/browse/my_lists" },
+    { "id": 7, "name": "WATCH AGAIN", "url": "/browse/watch_again" }
+]

@@ -1,0 +1,46 @@
+:root {
+    /* color */
+    --color-black-hover: rgba(24, 24, 24);
+    --color-black-hover-1: rgba(21, 21, 21);
+    --color-text: #e5e5e5;
+    --color-text-gray: #bcbcbc;
+    --color-green: #46d369;
+    --color-green-slider-hover: rgba(70, 211, 105, 0.2);
+    /* fontsize */
+    --fontSize-title-pc: 50px;
+    --fontSize-title-mobile: 35px;
+    --fontSize-subTitle-pc: 26px;
+    --fontSize-subTitle-mobile: 16px;
+    --fontSize-description-pc: 22px;
+    --fontSize-description-mobile: 18px;
+    --fontSize-text-pc: 18px;
+    --fontSize-text-mobile: 14px;
+    --fontSize-icon-pc: 32px;
+    --fontSize-icon-mobile: 28px;
+    /* footer */
+    --footer-color: #757575;
+    /* button */
+    --button-main: #e50914;
+    --button-main-hover: #f40612;
+    /* input */
+    --input-main: #333;
+    --input-main-focus: #454545;
+    /* error */
+    --color-error: #b8b10f;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

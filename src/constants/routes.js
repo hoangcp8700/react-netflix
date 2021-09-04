@@ -1,0 +1,6 @@
+export const HOME = '/'
+export const LOGIN = '/login'
+export const SIGN_UP = '/signup'
+export const BROWSE = '/browse'
+export const WATCH = '/watch'
+export const NOMATCH = '*'
